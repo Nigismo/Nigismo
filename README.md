@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nigismo
 - 👀 I’m interested in network, python.
-- 🌱 I’m currently learning math, python for finance.
+- 🌱 I’m currently learning django, excel.
 - 💞️ I’m looking to collaborate on develop.
 - 📫 How to reach me https://t.me/nigismo
 
